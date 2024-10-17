@@ -12,4 +12,4 @@ This is the repository that contains source code for the paper:
 ![image](https://github.com/hubigwaterdeep/Sketch-and-Text-Guided-Colored-Point-Cloud-Generation-with-Spatial-Correlation/blob/main/framework2.png)
 <p align="center">Overview of STDiff framework. The sketch feature is first extracted with two level attention modules for sparse embedding and then flows with multi-head attention fusion to text. With the embedded features, we proposed a staged denoising probabilistic diffusion model for both the geometry and appearance of 3D shapes.</p>
 
-<p align="center"><strong>The code is coming soon.</p>
+<p align="center"><strong>Code will be released upon acceptance.</p>
